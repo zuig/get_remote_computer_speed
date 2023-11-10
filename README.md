@@ -1,7 +1,6 @@
-# get_remote_computer_speed
-获取远程windows电脑网速
+# 获取远程windows电脑网速
   
-使用方法：  
+## 使用方法：  
 1、保证远程电脑能通过远程桌面连接  
   
 2、配置GetRemoteComputerSpeed.bat  
